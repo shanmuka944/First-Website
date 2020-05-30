@@ -1,0 +1,22 @@
+.tittle1
+{
+	color: #03fc77;
+}
+.tittle
+{
+	color: #eb38a6;
+}
+.paragraph
+{
+ 	color: #fcba03;
+ 	text-align: justify;
+ 	margin: 55px;
+ 	font-size:1.5em;
+ }
+ body
+{
+	background: url("https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png");
+    font-size:1.25em;
+    text-align: justify;
+
+}

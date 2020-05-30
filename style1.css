@@ -1,0 +1,32 @@
+body
+{
+	background: :lightyellow;
+}
+.tittle{
+	color: #eb38a6;
+}
+.yellow:link
+{
+	
+}
+.yellow:visited
+{
+    color: red;
+}
+img[src="photo1.jpeg"]
+{
+	border:3px white;
+}
+
+.subtitle
+{
+    color:#fcba03;
+     
+}
+ .paragraph{
+ 	color: #fcba03;
+ }
+body
+{
+	background: url("https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png")
+}
